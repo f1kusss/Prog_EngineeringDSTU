@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Нахождение факториала/1.0.0": {
+        "runtime": {
+          "Нахождение факториала.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Нахождение факториала/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
