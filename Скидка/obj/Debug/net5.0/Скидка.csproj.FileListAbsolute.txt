@@ -1,0 +1,15 @@
+D:\Программки\Скидка\Скидка\bin\Debug\net5.0\Скидка.exe
+D:\Программки\Скидка\Скидка\bin\Debug\net5.0\Скидка.deps.json
+D:\Программки\Скидка\Скидка\bin\Debug\net5.0\Скидка.runtimeconfig.json
+D:\Программки\Скидка\Скидка\bin\Debug\net5.0\Скидка.runtimeconfig.dev.json
+D:\Программки\Скидка\Скидка\bin\Debug\net5.0\Скидка.dll
+D:\Программки\Скидка\Скидка\bin\Debug\net5.0\ref\Скидка.dll
+D:\Программки\Скидка\Скидка\bin\Debug\net5.0\Скидка.pdb
+D:\Программки\Скидка\Скидка\obj\Debug\net5.0\Скидка.GeneratedMSBuildEditorConfig.editorconfig
+D:\Программки\Скидка\Скидка\obj\Debug\net5.0\Скидка.AssemblyInfoInputs.cache
+D:\Программки\Скидка\Скидка\obj\Debug\net5.0\Скидка.AssemblyInfo.cs
+D:\Программки\Скидка\Скидка\obj\Debug\net5.0\Скидка.csproj.CoreCompileInputs.cache
+D:\Программки\Скидка\Скидка\obj\Debug\net5.0\Скидка.dll
+D:\Программки\Скидка\Скидка\obj\Debug\net5.0\ref\Скидка.dll
+D:\Программки\Скидка\Скидка\obj\Debug\net5.0\Скидка.pdb
+D:\Программки\Скидка\Скидка\obj\Debug\net5.0\Скидка.genruntimeconfig.cache
