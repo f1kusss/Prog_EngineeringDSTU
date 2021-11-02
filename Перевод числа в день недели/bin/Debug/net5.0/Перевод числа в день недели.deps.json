@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Перевод числа в день недели/1.0.0": {
+        "runtime": {
+          "Перевод числа в день недели.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Перевод числа в день недели/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
